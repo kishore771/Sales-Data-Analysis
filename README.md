@@ -33,6 +33,14 @@ This project analyzes sales data to uncover insights into product performance, r
 
 ![Dashboard](dashboard.png)
 
+## 📌 Business Impact
+
+* Helps identify top-performing products
+* Supports decision-making for regional sales strategies
+* Enables tracking of revenue trends over time
+
+
+
 ## 🎯 Conclusion
 
 This project demonstrates how data can be transformed into actionable insights using visualization and analysis techniques.
