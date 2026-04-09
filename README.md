@@ -1,29 +1,39 @@
 # 📊 Sales Performance Dashboard
 
-## 🚀 Overview
+## 🚀 Project Overview
 
-This project analyzes sales data to identify product performance, regional distribution, and revenue trends using Power BI.
+This project analyzes sales data to uncover insights into product performance, regional trends, and revenue patterns using Power BI.
 
-## 📊 Features
+## 📁 Dataset
 
-* KPI metrics (Revenue, Orders, Quantity)
-* Product-wise revenue analysis
-* Monthly trend analysis
-* Region-wise distribution
-* Interactive filters
+* Contains product, price, quantity, region, and order date
+* Revenue calculated as: price × quantity
 
-## 🧠 Insights
+## 📊 Dashboard Features
 
-* Laptop generates highest revenue
-* Phone is second best performer
-* Revenue dips mid-year and recovers later
+* KPI Cards (Total Revenue, Orders, Quantity)
+* Revenue by Product (Bar Chart)
+* Monthly Revenue Trend (Line Chart)
+* Revenue by Region (Pie Chart)
+* Interactive Filters (Product & Region)
 
-## 🛠 Tools Used
+## 🧠 Key Insights
+
+* Laptop generates the highest revenue (~9M)
+* Phone is the second-best performing product
+* Revenue shows a dip mid-year followed by recovery
+
+## 🛠 Tools & Technologies
 
 * Power BI
-* Python
+* Python (Pandas for EDA)
 * SQL
 
 ## 📸 Dashboard Preview
 
 ![Dashboard](dashboard.png)
+
+## 🎯 Conclusion
+
+This project demonstrates how data can be transformed into actionable insights using visualization and analysis techniques.
+
